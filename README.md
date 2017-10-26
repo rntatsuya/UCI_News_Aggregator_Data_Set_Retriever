@@ -16,3 +16,5 @@ Run the program with
 ```
 UCI_news_aggregator_DS_retriever.py rawData output
 ```
+
+If you can help me improve the time or memory efficiency of the program, feel free to send a pull request!
