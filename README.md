@@ -5,10 +5,8 @@ articles but can't find a good data set anywhere on the internet?
 
 Then this is your lucky day because here's a tool that can literally make the data set for you!
 
-This tool uses the News Aggregator Data Set (which has been reorganized into smaller 
-files in the rawData directory) from the UCI Machine Learning Repository. 
+This tool uses the [News Aggregator Data Set](https://archive.ics.uci.edu/ml/datasets/News+Aggregator) (which has been reorganized into smaller files in the rawData directory), which is available in the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html). 
 
-https://archive.ics.uci.edu/ml/datasets/News+Aggregator
 
 ### Why did I make this tool? 
 
