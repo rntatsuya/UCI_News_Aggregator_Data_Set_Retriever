@@ -5,7 +5,7 @@ import csv
 import sys
 import urllib2
 from newspaper import Article
-from os import listdir
+from os import listdir, path, mkdir
 
 ### HELPER METHOD ###
 
@@ -56,6 +56,9 @@ def main():
 	
 	input_folder = sys.argv[1]
 	output_folder = sys.argv[2]
+	
+	if not path.isdir(output_folder):
+		mkdir(output_folder)
 	
 	# get file names for raw data directory and completed data directory
 	raw_files = listdir(input_folder)
