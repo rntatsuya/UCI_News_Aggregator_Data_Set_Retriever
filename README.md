@@ -10,7 +10,7 @@ This tool uses the [News Aggregator Data Set](https://archive.ics.uci.edu/ml/dat
 
 ### Why did I make this tool? 
 
-Because I wanted to dive into natural language processing with a simple categorization problem, and this UCI News Aggregator Data Set was one of the few data sets that had enough labeled data. BUT, unfortunately the downside to this was that due to restrictions on content and use of the news sources, the corpus was limited to web references (urls) to web pages and did not include any text content. 
+Because I wanted to dive into natural language processing with a simple categorization problem, and this UCI News Aggregator Data Set was one of the few data sets that had enough labeled data. BUT, unfortunately the downside to this was that due to restrictions on content and use of the news sources, the corpus was limited to web references (urls) to web pages and did not include any text content. Hence this tool was born!
 
 
 ### Run the program with
